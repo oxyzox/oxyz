@@ -3,7 +3,7 @@
 :root {
     --glass-bg: rgba(255, 255, 255, 0.1);
     --glass-border: rgba(255, 255, 255, 0.2);
-    --text-primary: rgba(233, 233, 233, 0.9);
+    --text-primary: rgba(250, 250, 250, 0.9);
     --text-secondary: rgba(255, 255, 255, 0.7);
     --blur-amount: 12px;
 }
